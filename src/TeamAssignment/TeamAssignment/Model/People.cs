@@ -5,7 +5,7 @@ namespace TeamAssignment.Model
 {
     public class People
     {
-        public static List<string> All = new List<string> { "AndrewK", "AndrewO", "Winie", "Ben", "Mathew", "Adam", "Gabi", "Stephen", "Usama", "James", "Olga" };
+        public static List<string> All = new List<string> { "James", "Orlando", "Smith", "Bob", "Jason", "Grace", "Azuka", "Imma", "Kiki", "Kira", "Boma" };
 
     }
 }
